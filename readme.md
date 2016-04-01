@@ -1,14 +1,14 @@
 # Laravel Project
-**Relationship**
+##Relationship
 >morphTo
 >morphMany
 >belongsTo
 >hasMany
 
-**Validation**
+##Validation
 >Creating new users
 
-**Authorization**
+##Authorization
 >Users authorization
 
-**Requests**
+##Requests
