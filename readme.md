@@ -10,5 +10,3 @@
 
 ##Authorization
 >* Users authorization
-
-##Requests
